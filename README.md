@@ -12,7 +12,7 @@ Por favor, leia atentamente as instruções abaixo antes de iniciar o desafio. E
 
 ## Problema
 
-A sigla UX derivada da expressão inglesa *User Experience* que, traduzida para o português, pode ser compreendida como Experiência de Usuário. O UX design trata-se da ação de criar uma boa experiência do usuário a fim de facilitar e enriquecer a jornada do cliente em sites, aplicativos e outros produtos. 
+A sigla UX  é derivada da expressão inglesa *User Experience* que, traduzida para o português, pode ser compreendida como Experiência de Usuário. O UX design trata-se da ação de criar uma boa experiência do usuário a fim de facilitar e enriquecer a jornada do cliente em sites, aplicativos e outros produtos. 
 
 Nesse contexto, o seu objetivo é criar um layout de tela de login no [Figma](https://www.figma.com/) e, seguindo esse layout, desenvolvê-lo utilizando a framework [React](https://react.dev/). É importante ressaltar que no desenvolvimento da tela de login, será necessário ter dois campos: E-mail e Senha. No campo de e-mail, coloque uma validação para verificar se o que foi digitado pelo usuário é um e-mail válido. Vale ressaltar também que o layout é para **versão web** (e não mobile). 
 
